@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
  
-&nbsp; [![Gameking5678](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=I+am+Gameking5678+,+Web+Devoloper+and+Discord+Bot+Devoloper)](https://www.gameking5678.ga)
+&nbsp; [![Gameking5678](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=595&lines=I+am+Gameking5678)](https://www.gameking5678.ga)
  
 </div>
 <h2>My Github Stats</h2>
