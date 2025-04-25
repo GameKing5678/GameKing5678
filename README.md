@@ -10,8 +10,6 @@
 [![YouTube Views](https://img.shields.io/youtube/channel/views/UC9auQbnSq69ICeTbINnkZDA?style=social)](https://www.youtube.com/channel/UC9auQbnSq69ICeTbINnkZDA)
 [![YouTube Views](https://komarev.com/ghpvc/?username=GameKing5678&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=GameKing5678&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="" alt="profile views" />
-
 <h2>🏆 Achievements</h2>
 
 <img height="50em" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" />
