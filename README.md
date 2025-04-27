@@ -22,5 +22,5 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GameKing5678&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameKing5678&layout=compact&theme=radical&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gameking5678&theme=dark&background=000&hide_border=true" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gameking5678&theme=dark&background=00000010&hide_border=true" width="400">
 </div>
